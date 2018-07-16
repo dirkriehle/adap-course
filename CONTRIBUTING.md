@@ -20,7 +20,7 @@ Please follow this basic advice when changing files and sending a pull request:
 - If your contribution is one step of several, please name the underlying issue/feature/discussion
 - In any case, keep all changes small and semantically closed
 
-Please note that in order to avoid too much formatting confusion, we are likely to copy over slides from your slide deck to our slide deck
+Please note that in order to avoid too much formatting confusion, we are likely to copy over slides from your slide deck to our slide deck. This may confuse git / GitHub but ensures visual integrity of the slides.
 
 ## Giving credit
 
