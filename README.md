@@ -26,7 +26,7 @@ Students learn the following concepts:
 
 ## Component-level concepts
 
-- Error handling
+- Error and exception handling
 - Meta-object protocols
 - Frameworks and components
 - Domain-driven design
