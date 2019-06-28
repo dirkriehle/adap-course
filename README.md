@@ -35,3 +35,6 @@ Students learn the following concepts:
 The running example is the photo sharing and rating software Wahlzeit, see https://github.com/dirkriehle/wahlzeit . 
 
 Class is held as a three hour session with a short break in between. The class iterates over short lectures, discussion, and exercise chunks of 10-30min each. Students should bring a laptop with a well-working Java programming setup.
+
+Watch the videos on my YT channel at https://www.youtube.com/dirkriehle
+
