@@ -1,4 +1,4 @@
-# Contributing to ADAP-Course
+# Contributing to this course
 
 Contributions are welcome, but will be reviewed for fit with existing materials. For this reason, please make sure that you discuss any potential changes with us first to make sure you work can be integrated. Please use issues or email to start the discussion.
 
