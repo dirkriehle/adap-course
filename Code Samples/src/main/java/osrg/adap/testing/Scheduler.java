@@ -5,6 +5,19 @@ import java.util.Date;
 
 public class Scheduler {
 
+    public void setMode(String mode) {
+        // just for demonstration purposes
+    }
+
+    public void start() {
+        // just for demonstration purposes
+    }
+
+    public void stop() {
+        // just for demonstration purposes
+    }
+
+
     /***
      * ...... a lof of other Scheduler attributes and methods
      ***/

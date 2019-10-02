@@ -1,15 +1,13 @@
 package osrg.adap.testing;
 
 import org.junit.Test;
-
 import java.util.Date;
-
 import static org.junit.Assert.*;
 
 public class SchedulerTest {
 
     @Test
-    public void calculateExecutionDateFromFutureDate() {
+    public void testCalculateExecutionDateFromFutureDate() {
         Date futureDate = new Date(new Date().getTime() + 60000);
 
         Scheduler scheduler = new Scheduler();
@@ -19,7 +17,7 @@ public class SchedulerTest {
     }
 
     @Test
-    public void calculateExecutionDateFromPastDate() {
+    public void testCalculateExecutionDateFromPastDate() {
         Date pastDate = new Date(new Date().getTime() - 1000);
 
         Scheduler scheduler = new Scheduler();
@@ -27,5 +25,4 @@ public class SchedulerTest {
 
         assertEquals(pastDate.getTime() + 60000, calculatedDate.getTime());
     }
-
 }
