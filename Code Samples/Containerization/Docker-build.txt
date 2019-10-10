@@ -1,0 +1,10 @@
+# Docker context is current/working directory and represented as dot
+
+# build image without a name or tag
+docker build .
+
+# build image with a name and an optionally tag
+docker build -t myContainer:v1.0.3 .
+
+# use a specific Dockerfile 
+docker build -f deploy/docker/Dockerfile -t bestApp:latest . 
