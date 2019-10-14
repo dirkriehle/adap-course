@@ -1,0 +1,4 @@
+# Dockerfile
+FROM ubuntu:19.10
+ENV DB_URL=localhost:5432
+CMD ./my-app.sh 

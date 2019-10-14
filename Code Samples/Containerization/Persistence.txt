@@ -1,0 +1,10 @@
+# create volume
+docker volume create my-vol
+# mount volume my-vol as "/data/db"
+docker run --name my-db -v my-vol:/data/db mongo
+
+---
+
+# mount "/my/own/datadir" of the host file system 
+# as "/data/db" inside the container
+docker run --name my-db -v /my/own/datadir:/data/db mongo

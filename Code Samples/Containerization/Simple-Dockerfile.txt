@@ -1,0 +1,11 @@
+# base image
+FROM ubuntu:19.04
+
+# copy nessacary files into container
+COPY . /app
+
+# build application
+RUN make /app
+
+# run application
+CMD python /app/app.py

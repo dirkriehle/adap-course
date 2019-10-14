@@ -1,0 +1,10 @@
+Size:     457.95MB
+
+ID         TAG                  SIZE      COMMAND
+466be60494 adap:single-commands 0B        /bin/sh -c rm -rf /var/lib/apt/lists/* 
+6de502522b                      0B        /bin/sh -c apt-get clean
+8282ce4333                      346.74MiB /bin/sh -c apt-get install -y openjdk-13-jre
+9d5a7a35ec                      20.55MiB  /bin/sh -c apt-get update 
+70719f393f ubuntu:19.10         0B        CMD ["/bin/bash"]       
+...
+<missing>                       68.50MiB  ADD file:5bbdfa140633b135672ff0e1eb1a1b37afcab36216103c0b3d97337c62c5e2a1 in / 
