@@ -1,0 +1,3 @@
+# publish ports with -p [host port]:[container port]
+docker run --name my-postgres -p 5432:5432 postgres-image
+docker run --name some-nginx -p 8080:80 some-nginx-image
