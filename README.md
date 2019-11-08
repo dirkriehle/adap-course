@@ -1,10 +1,12 @@
 # Advanced Design and Programming (ADAP)
 
-https://dirkriehle.com/open-courses/advanced-design-and-programming/
-
 This course teaches principles and practices of advanced object-oriented design and programming.
 
-It consists of a weekly lecture with exercises, homework and self-study, totaling 4 SWS, 5 ECTS. This is a hands-on course and students should be familiar with their Java IDE. 
+Overview: https://dirkriehle.com/open-courses/advanced-design-and-programming/
+
+Youtube: https://www.youtube.com/playlist?list=PLQ2ODVSeOYlWOGwLHe5kdvbVZtCxy_1xD
+
+The course consists of a weekly lecture with exercises, homework and self-study, totaling 4 SWS, 5 ECTS. This is a hands-on course and students should be familiar with their Java IDE. 
 
 Students learn the following concepts:
 
@@ -37,6 +39,4 @@ Students learn the following concepts:
 The running example is the photo sharing and rating software Wahlzeit, see https://github.com/dirkriehle/wahlzeit . 
 
 Class is held as a three hour session with a short break in between. The class iterates over short lectures, discussion, and exercise chunks of 10-30min each. Students should bring a laptop with a well-working Java programming setup.
-
-Watch the videos on my YT channel at https://www.youtube.com/dirkriehle
 
