@@ -2,11 +2,9 @@
 
 This course teaches principles and practices of advanced object-oriented design and programming.
 
-Overview: https://dirkriehle.com/open-courses/advanced-design-and-programming/
+https://uni1.de/portfolio/the-adap-course
 
-Youtube: https://www.youtube.com/playlist?list=PLQ2ODVSeOYlWOGwLHe5kdvbVZtCxy_1xD
-
-The course consists of a weekly lecture with exercises, homework and self-study, totaling 4 SWS, 5 ECTS. This is a hands-on course and students should be familiar with their Java IDE. 
+The course consists of a weekly lecture with exercises. This is a hands-on course and students should be familiar with their Java IDE. 
 
 Students learn the following concepts:
 
@@ -36,7 +34,4 @@ Students learn the following concepts:
 - Domain-driven design
 - API evolution
 
-The running example is the photo sharing and rating software Wahlzeit, see https://github.com/dirkriehle/wahlzeit . 
-
-Class is held as a three hour session with a short break in between. The class iterates over short lectures, discussion, and exercise chunks of 10-30min each. Students should bring a laptop with a well-working Java programming setup.
-
+The running example is the photo sharing and rating software Wahlzeit, see https://github.com/dirkriehle/wahlzeit 
