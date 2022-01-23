@@ -1,4 +1,4 @@
-# Advanced Design and Programming (ADAP)
+# Advanced Design and Programming [ADAP]
 
 Students learn concepts of advanced object oriented design and programming using a single semester-long project.
 
