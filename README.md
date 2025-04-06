@@ -7,5 +7,3 @@ Overview is at https://profriehle.com/open-courses/advanced-design-and-programmi
 YouTube playlist is at https://youtube.com/playlist?list=PLQ2ODVSeOYlUxPZgn0qIFXaffH7phWSVM
 
 Slides are here at https://github.com/dirkriehle/adap-course/
-
-The semester-long open source project is the Wahlzeit application at https://github.com/dirkriehle/wahlzeit/
